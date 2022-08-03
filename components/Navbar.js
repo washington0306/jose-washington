@@ -5,7 +5,7 @@ const Navbar = () => (
         <div className="navbar-fixed">
             <nav className="purple">
                 <div className="nav-wrapper container">
-                <a href="#"><img className="logo-img" alt="Logo" src={require('./assets/apple-touch-icon.png')} />José Washington</a>
+                <a href="#"><img className="logo-img" alt="Logo" src={require('./assets/apple-touch-icon.png')} /><h1>José Washington</h1></a>
                     <a href="#" data-target="nav-mobile" className="right sidenav-trigger"><i className="material-icons">menu</i></a>
                     <ul className="right hide-on-med-and-down">
                         <li><a href="#Sobre">Sobre</a></li>
