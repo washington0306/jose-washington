@@ -16,7 +16,7 @@ const Home = () => (
                                 <p style={{textAlign: "justify"}}>Programador ousado com conhecimentos de Java Script e React, apaixonado por tecnologia e programação. Graduando em Análise e desenvolvimento de sistemas na UNIFIP. Busco pôr em prática o que aprendi e continuo aprendendo no mundo da programação para criar códigos inovadores para os clientes da Empresa. Hoje me considero um profissional ainda em fase de aprendizado, porém com experiência e muita vontade de crescer.</p>
                             </div>
                             <div className="card-action size-screen-card">
-                                <a href="https://docs.google.com/document/d/1ZIGCr82boCoVLGenQ4wIwGDBrtIA2en_/edit" className="waves-effect waves-light btn purple"><i className="material-icons left">cloud_download</i>Baixar currículo</a>
+                                <a href="file:///C:/Users/55839/Desktop/Jos%C3%A9%20Washington%20Atualizado.pdf" className="waves-effect waves-light btn purple"><i className="material-icons left">cloud_download</i>Baixar currículo</a>
                             </div>
                         </div>
                     </div>
