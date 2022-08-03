@@ -31,7 +31,7 @@ const Home = () => (
                     <h2 className="header"><u style={{textDecoration: "purple underline"}}>Skills</u></h2>
                     <div className="row">
                         <div className="col s12 l3 separate-icon">
-                            <i className="devicon-javascript-plain"></i>
+                            <i className="devicon-javaScript-plain-wordmark really-big-icon"></i>
                         </div>
                         <div className="col s12 l3 separate-icon">
                             <i className="devicon-html5-plain-wordmark really-big-icon"></i>
