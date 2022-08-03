@@ -5,7 +5,7 @@ const Navbar = () => (
         <div className="navbar-fixed">
             <nav className="purple">
                 <div className="nav-wrapper container" style={{display:"inline", justifycontent:"space-around"}}>
-                    <a href="#"><h3>José Washington</h3></a>
+                    <h3>José Washington</h3>
                     <a href="#" data-target="nav-mobile" className="right sidenav-trigger"><i className="material-icons">menu</i></a>
                     <ul className="right hide-on-med-and-down">
                         <li><a href="#Sobre">Sobre</a></li>
