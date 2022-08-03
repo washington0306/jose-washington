@@ -45,16 +45,12 @@ const Home = () => (
                         <div className="col s12 l3 separate-icon">
                             <i className="devicon-react-original-wordmark really-big-icon"></i>
                         </div>
-                        
-                        
-                    </div>
-                    <div className="row center-align">
-                        <div className="col s12 l3 separate-icon">
+                         <div className="col s12 l3 separate-icon">
                             <i className="devicon-github-plain-wordmark really-big-icon"></i>
                         </div>
-                       
-                     
+                        
                     </div>
+ 
                 </div>
 
             </div>

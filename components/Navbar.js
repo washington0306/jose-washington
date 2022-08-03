@@ -5,8 +5,8 @@ const Navbar = () => (
         <div className="navbar-fixed">
             <nav className="purple">
                 <div className="nav-wrapper container">
-                    <a href="#"><img className="logo-img" alt="Logo" src={require('./assets/logo.svg')} /></a>
-                    <a href="#" data-target="nav-mobile" className="right sidenav-trigger"><i className="material-icons">José Washington</i></a>
+                    <a href="#"><img className="logo-img" alt="Logo" src="" />José Washington</a>
+                    <a href="#" data-target="nav-mobile" className="right sidenav-trigger"><i className="material-icons">menu</i></a>
                     <ul className="right hide-on-med-and-down">
                         <li><a href="#Sobre">Sobre</a></li>
                         <li><a href="#Skills">Skills</a></li>
