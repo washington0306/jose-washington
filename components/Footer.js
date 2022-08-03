@@ -89,8 +89,8 @@ const Footer = () => (
             </div>
         </div>
         <div className="footer-copyright indigo-text ">
-            <div className="container">© 2020 José Washington
-                <a className="grey-text text-darken-3 right" href="https://github.com/washington0306">Veja este projeto no Github</a>
+            <div className="container">© 2022 José Washington
+                <a className="grey-text text-darken-3 right" href="https://github.com/washington0306/jose-washington">Veja este projeto no Github</a>
             </div>
         </div>
 
