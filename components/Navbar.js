@@ -4,8 +4,8 @@ const Navbar = () => (
     <div>
         <div className="navbar-fixed">
             <nav className="purple">
-                <div className="nav-wrapper container">
-                    <a href="#" height="20px"><h1 font-size="15px">José Washington</h1></a>
+                <div className="nav-wrapper container" style={{display:"inline-block"}}>
+                    <a href="#"><h1 style={{fontsize:"15px"}}>José Washington</h1></a>
                     <a href="#" data-target="nav-mobile" className="right sidenav-trigger"><i className="material-icons">menu</i></a>
                     <ul className="right hide-on-med-and-down">
                         <li><a href="#Sobre">Sobre</a></li>
