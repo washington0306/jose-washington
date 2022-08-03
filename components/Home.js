@@ -35,7 +35,7 @@ const Home = () => (
                         </div>
                         <div className="col s12 l3 separate-icon">
                             <i className="devicon-html5-plain-wordmark really-big-icon"></i>
-                        </div>
+                        </div><br/>
                         <div className="col s12 l3 separate-icon">
                             <i className="devicon-css3-plain-wordmark really-big-icon"></i>
                         </div>
