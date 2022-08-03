@@ -4,7 +4,7 @@ const Navbar = () => (
     <div>
         <div className="navbar-fixed">
             <nav className="purple">
-                <div className="nav-wrapper container">
+                <div className="nav-wrapper container" style={{display:"inline-grid"}}>
                     <a href="#"><h3>José Washington</h3></a>
                     <a href="#" data-target="nav-mobile" className="right sidenav-trigger"><i className="material-icons">menu</i></a>
                     <ul className="right hide-on-med-and-down">
