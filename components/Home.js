@@ -9,7 +9,7 @@ const Home = () => (
                     <h2 className="header white-text"><u style={{textDecoration: "purple underline"}}>Sobre</u></h2>
                     <div className="card horizontal">
                         <div className="card-image size-screen">
-                            <img src={require('./assets/jose.jpg')} alt="Washington Gomes" height="230px" />
+                            <img src={require('./assets/jose.jpg')} alt="Washington Gomes" height="240px" />
                         </div>
                         <div className="card-stacked">
                             <div className="card-content">
