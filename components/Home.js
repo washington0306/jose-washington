@@ -46,11 +46,7 @@ const Home = () => (
                             <i className="devicon-github-plain-wordmark really-big-icon"></i>
                         </div>
                     </div>
-                    <div className="row center-align">
-                      
-                        
-                    </div>
- 
+                   
                 </div>
 
             </div>
