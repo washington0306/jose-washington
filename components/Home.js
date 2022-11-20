@@ -13,7 +13,7 @@ const Home = () => (
                         </div>
                         <div className="card-stacked">
                             <div className="card-content">
-                                <p style={{textAlign: "justify"}}>Programador ousado com conhecimentos de Java Script e React, apaixonado por tecnologia e programação. Graduando em Análise e desenvolvimento de sistemas na UNIFIP. Busco pôr em prática o que aprendi e continuo aprendendo no mundo da programação para criar códigos inovadores para os clientes da Empresa. Hoje me considero um profissional ainda em fase de aprendizado, porém com experiência e muita vontade de crescer.</p>
+                                <p style={{textAlign: "justify"}}>Programador ousado com conhecimentos de Java Script e React, apaixonado por tecnologia e programação. Graduando em Ciências da Computação pela Universidade Estadual da Paraíba. Atualmentente trabalhando como Desenvolvedor Front End Junior na Indutiva Tecnologia. Busco pôr em prática o que aprendi e continuo aprendendo no mundo da programação para criar códigos inovadores para os clientes da Empresa. Hoje me considero um profissional ainda em fase de aprendizado, porém com experiência e muita vontade de crescer.</p>
                             </div>
                             <div className="card-action size-screen-card">
                                 <a href="https://docs.google.com/presentation/d/1aWNfynV9vq9pDTxxbGs2dJurrcXsb_exsmDX-GC-Y4A/edit#slide=id.p1" className="waves-effect waves-light btn purple"><i className="material-icons left">cloud_download</i>Baixar currículo</a>
